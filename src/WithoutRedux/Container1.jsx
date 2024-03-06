@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Counter from "./Counter";
-import TotalCount from "./TotalCount";
+import Counter from "../components/Counter";
+import TotalCount from "../components/TotalCount";
 const initialCounters = [
   {
     id: 1,
